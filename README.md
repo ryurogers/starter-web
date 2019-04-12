@@ -11,3 +11,5 @@ This is an example to show differnet parts of the Git repository and various com
 This is a simple web project, deploment can be on my computer
 
 ## How to Contribute
+Test
+

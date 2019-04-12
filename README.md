@@ -13,5 +13,6 @@ This is a simple web project, deploment can be on my computer
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
+(c) 2019 Studio-Ryu, LLC - Git Training, All Rights Reserved
 
 

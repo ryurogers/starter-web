@@ -13,3 +13,6 @@ This is a simple web project, deploment can be on my computer
 ## How to Contribute
 Test
 
+### Copyright
+
+
